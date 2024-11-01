@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12d71906-6354-4f04-8fb3-e267bf75f673" name="Changes" comment="" />
+    <list default="true" id="12d71906-6354-4f04-8fb3-e267bf75f673" name="Changes" comment="deployed syndicate">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task01/jsrc/main/java/com/task01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/task01/jsrc/main/java/com/task01/HelloWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "har2910"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/har2910/demo.git",
+    "accountId": "7f622db3-a789-454c-8152-30b067535838"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -51,11 +66,24 @@
       <option name="presentableId" value="Default" />
       <updated>1730397548815</updated>
       <workItem from="1730397550156" duration="5770000" />
-      <workItem from="1730432586518" duration="2488000" />
+      <workItem from="1730432586518" duration="4236000" />
     </task>
+    <task id="LOCAL-00001" summary="deployed syndicate">
+      <option name="closed" value="true" />
+      <created>1730442308959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730442308959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deployed syndicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="deployed syndicate" />
   </component>
 </project>
